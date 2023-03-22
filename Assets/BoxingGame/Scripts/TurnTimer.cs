@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//TAKES TURN
 public class TurnTimer : MonoBehaviour
 {
 	public float currentTime = 0;
